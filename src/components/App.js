@@ -1,4 +1,4 @@
-import React from 'redux';
+import React from 'react';
 
 const App = () => {
     return <div className="ui container">App</div>
