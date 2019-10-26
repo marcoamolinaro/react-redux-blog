@@ -71,3 +71,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 Modules added:
 
 npm install --save redux react-redux axios redux-thunk
+
+npm install --save lodash
+
